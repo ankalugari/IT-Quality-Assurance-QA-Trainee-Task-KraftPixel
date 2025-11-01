@@ -1,0 +1,5 @@
+{
+  "name": "QA Bug Tracker Assistant",
+  "description": "An intelligent bug tracking application designed to assist QA testers in identifying and documenting issues on websites, powered by Gemini for smart test case suggestions.",
+  "requestFramePermissions": []
+}
